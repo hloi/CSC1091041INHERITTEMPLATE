@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hloi/CLionProjects/CSC1091041INHERITTEMPLATE/Business.h
+
+C:/Users/hloi/CLionProjects/CSC1091041INHERITTEMPLATE/Restuarant.cpp
+Restuarant.h
+C:/Users/hloi/CLionProjects/CSC1091041INHERITTEMPLATE/Restuarant.h
+
+C:/Users/hloi/CLionProjects/CSC1091041INHERITTEMPLATE/Restuarant.h
+string
+-
+Business.h
+C:/Users/hloi/CLionProjects/CSC1091041INHERITTEMPLATE/Business.h
+
+C:/Users/hloi/CLionProjects/CSC1091041INHERITTEMPLATE/main.cpp
+iostream
+-
+string
+-
+vector
+-
+Business.h
+C:/Users/hloi/CLionProjects/CSC1091041INHERITTEMPLATE/Business.h
+Restuarant.h
+C:/Users/hloi/CLionProjects/CSC1091041INHERITTEMPLATE/Restuarant.h
+
